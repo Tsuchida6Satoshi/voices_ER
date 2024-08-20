@@ -10,6 +10,8 @@ function Dashboard() {
         <Image src="/menubar.png" alt="Menubar" layout="intrinsic" width={50} height={50} />
       </div>
 
+#改行挿入
+
       {/* メインコンテンツ */}
       <div style={{ display: 'flex', flexGrow: 1 }}>
         {/* サマリーとタイムライン */}
